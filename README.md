@@ -8,8 +8,8 @@
 
 ## Nome do Grupo
 
-## Integrantes: 
-Flavia da Costa - 20021548 / Felipe Gonçalves - 23025547 / Fernanda Loura - 24026445 / Vitor Pereira - 23025384
+## Integrantes: Flavia da Costa - 20021548 / Felipe Gonçalves - 23025547 / Fernanda Loura - 24026445 / Vitor Pereira - 23025384
+
 
 ## Professores Orientadores: Gilles Pedrosa leite / Fabiano Alves Onça
 
